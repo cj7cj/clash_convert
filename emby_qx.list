@@ -1,11 +1,11 @@
 # NAME: Emby
 # AUTHOR: cjcj
 # REPO: https://github.com/cj7cj/clash_convert/
-# UPDATED: 2023-04-07 14:52:15
+# UPDATED: 2023-05-11 14:16:53
 # HOST: 1
-# HOST-KEYWORD: 3
-# HOST-SUFFIX: 34
-# TOTAL: 38
+# HOST-KEYWORD: 18
+# HOST-SUFFIX: 0
+# TOTAL: 19
 HOST,emby.enjoyit.eu.org,Emby
 HOST-KEYWORD,odysseyplus,Emby
 HOST-KEYWORD,embyvip.misakaf.org,Emby
@@ -19,3 +19,9 @@ HOST-KEYWORD,nebula-emby,Emby
 HOST-KEYWORD,emby.misakaf,Emby
 HOST-KEYWORD,play.acemby,Emby
 HOST-KEYWORD,two.mulgore,Emby
+HOST-KEYWORD,zox.show,Emby
+HOST-KEYWORD,emby.agon.cf,Emby
+HOST-KEYWORD,emby.wiri,Emby
+HOST-KEYWORD,didi01,Emby
+HOST-KEYWORD,cf.imetyou,Emby
+HOST-KEYWORD,film.goodisp,Emby
